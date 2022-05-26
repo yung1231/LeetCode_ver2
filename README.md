@@ -5,4 +5,9 @@ Problem & Solution
 
 Each question will be annotated for the record.
 
-> If you like, please leave me a ★
+> If you like, please give me a ★
+
+# Array
+| # | Title | Solution | Difficulty |
+|:--| ----- | -------- | ---------- |
+|0704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Click](Array/0704_BinarySearch.cpp)|Easy|
