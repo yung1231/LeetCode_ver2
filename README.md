@@ -17,3 +17,4 @@ Each question will be annotated for the record.
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Click](./Array/0059_SpiralMatrixII.cpp)|<font color="#f1c01c">Medium</font>|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Click](./Array/0035_SearchInsertPosition.cpp)|<font color="#00b8a3">Easy</font>|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Click](./Array/0034_FindFirstandLastPositionofElementinSortedArray.cpp)|<font color="#f1c01c">Medium</font>|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Click](./Array/0069_Sqrt(x).cpp)|<font color="#00b8a3">Easy</font>|
