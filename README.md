@@ -21,3 +21,4 @@ Each question will be annotated for the record.
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Click](./Array/0367_ValidPerfectSquare.cpp)|<font color="#00b8a3">Easy</font>|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Click](./Array/0026_RemoveDuplicatesfromSortedArray.cpp)|<font color="#00b8a3">Easy</font>|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Click](./Array/0283_MoveZeroes.cpp)|<font color="#00b8a3">Easy</font>|
+|0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Click](./Array/0844_BackspaceStringCompare.cpp)|<font color="#00b8a3">Easy</font>|
