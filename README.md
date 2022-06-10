@@ -22,3 +22,4 @@ Each question will be annotated for the record.
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Click](./Array/0026_RemoveDuplicatesfromSortedArray.cpp)|<font color="#00b8a3">Easy</font>|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Click](./Array/0283_MoveZeroes.cpp)|<font color="#00b8a3">Easy</font>|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Click](./Array/0844_BackspaceStringCompare.cpp)|<font color="#00b8a3">Easy</font>|
+|0904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Click](./Array/0904_FruitIntoBaskets.cpp)|<font color="#f1c01c">Medium</font>|
