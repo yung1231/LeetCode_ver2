@@ -24,3 +24,4 @@ Each question will be annotated for the record.
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Click](./Array/0844_BackspaceStringCompare.cpp)|<font color="#00b8a3">Easy</font>|
 |0904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Click](./Array/0904_FruitIntoBaskets.cpp)|<font color="#f1c01c">Medium</font>|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Click](./Array/0076_MinimumWindowSubstring.cpp)|<font color="#eb2c45">Hard</font>|
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Click](./Array/0054_SpiralMatrix.cpp)|<font color="#f1c01c">Medium</font>|
