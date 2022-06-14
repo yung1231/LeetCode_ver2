@@ -29,3 +29,4 @@ Each question will be annotated for the record.
 # [Linked List](./LinkedList/)
 | # | Problems | Solution | Difficulty |
 |:--| ----- | -------- | ---------- |
+|0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Click](./LinkedList/0203_RemoveLinkedListElements.cpp)|<font color="#00b8a3">Easy</font>|
