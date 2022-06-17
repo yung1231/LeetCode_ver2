@@ -31,3 +31,4 @@ Each question will be annotated for the record.
 |:--| ----- | -------- | ---------- |
 |0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Click](./LinkedList/0203_RemoveLinkedListElements.cpp)|<font color="#00b8a3">Easy</font>|
 |0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Click](./LinkedList/0707_DesignLinkedList.cpp)|<font color="#f1c01c">Medium</font>|
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Click](./LinkedList/0206_ReverseLinkedList.cpp)|<font color="#00b8a3">Easy</font>|
