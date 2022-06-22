@@ -34,3 +34,4 @@ Each question will be annotated for the record.
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Click](./LinkedList/0206_ReverseLinkedList.cpp)|<font color="#00b8a3">Easy</font>|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Click](./LinkedList/0024_SwapNodesinPairs.cpp)|<font color="#f1c01c">Medium</font>|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Click](./LinkedList/0019_RemoveNthNodeFromEndofList.cpp)|<font color="#f1c01c">Medium</font>|
+|0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Click](./LinkedList/0160_IntersectionofTwoLinkedLists.cpp)|<font color="#00b8a3">Easy</font>|
