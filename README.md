@@ -41,3 +41,4 @@ Each question will be annotated for the record.
 | # | Problems | Solution | Difficulty |
 |:--| ----- | -------- | ---------- |
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Click](./HashMap/0242_ValidAnagram.cpp)|<font color="#00b8a3">Easy</font>|
+|0242|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Click](./HashMap/1002_FindCommonCharacters.cpp)|<font color="#00b8a3">Easy</font>|
