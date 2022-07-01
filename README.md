@@ -42,3 +42,4 @@ Each question will be annotated for the record.
 |:--| ----- | -------- | ---------- |
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Click](./HashMap/0242_ValidAnagram.cpp)|<font color="#00b8a3">Easy</font>|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Click](./HashMap/1002_FindCommonCharacters.cpp)|<font color="#00b8a3">Easy</font>|
+|0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Click](./HashMap/0349_IntersectionofTwoArrays.cpp)|<font color="#00b8a3">Easy</font>|
