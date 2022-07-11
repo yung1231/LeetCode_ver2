@@ -46,3 +46,4 @@ Each question will be annotated for the record.
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Click](./HashMap/0202_HappyNumber.cpp)|<font color="#00b8a3">Easy</font>|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[Click](./HashMap/0001_TwoSum.cpp)|<font color="#00b8a3">Easy</font>|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Click](./LinkedList/../HashMap/0454_4SumII.cpp)|<font color="#f1c01c">Medium</font>|
+|0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Click](./HashMap/0383_RansomNote.cpp)|<font color="#00b8a3">Easy</font>|
