@@ -25,6 +25,7 @@ Each question will be annotated for the record.
 |0904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Click](./Array/0904_FruitIntoBaskets.cpp)|<font color="#f1c01c">Medium</font>|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Click](./Array/0076_MinimumWindowSubstring.cpp)|<font color="#eb2c45">Hard</font>|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Click](./Array/0054_SpiralMatrix.cpp)|<font color="#f1c01c">Medium</font>|
+|0015|[3Sum](https://leetcode.com/problems/3sum/)|[Click](./Array/0015_3Sum_ArrVer.cpp)|<font color="#f1c01c">Medium</font>|
 
 # [Linked List](./LinkedList/)
 | # | Problems | Solution | Difficulty |
