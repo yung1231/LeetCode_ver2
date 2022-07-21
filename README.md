@@ -52,4 +52,5 @@ Each question will be annotated for the record.
 # [String](./String/)
 | # | Problems | Solution | Difficulty |
 |:--| ----- | -------- | ---------- |
-|0242|[Valid Anagram](https://leetcode.com/problems/reverse-string/)|[Click](./String/0344_ReverseString.cpp)|<font color="#00b8a3">Easy</font>|
+|0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Click](./String/0344_ReverseString.cpp)|<font color="#00b8a3">Easy</font>|
+|0541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Click](./String/0541_ReverseStringII.cpp)|<font color="#00b8a3">Easy</font>|
